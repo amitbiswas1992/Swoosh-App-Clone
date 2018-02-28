@@ -10,6 +10,7 @@
 		841AF6902046265A007886B8 /* LeagueVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841AF68F2046265A007886B8 /* LeagueVC.swift */; };
 		841AF6922046267A007886B8 /* SkillVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841AF6912046267A007886B8 /* SkillVC.swift */; };
 		841AF69520462D63007886B8 /* MensVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841AF69420462D63007886B8 /* MensVC.swift */; };
+		8463AFDF20471C970041FC63 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8463AFDE20471C970041FC63 /* Player.swift */; };
 		84D00A802040BC9D00069A85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D00A7F2040BC9D00069A85 /* AppDelegate.swift */; };
 		84D00A822040BC9D00069A85 /* WelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D00A812040BC9D00069A85 /* WelcomeVC.swift */; };
 		84D00A852040BC9D00069A85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84D00A832040BC9D00069A85 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 		841AF68F2046265A007886B8 /* LeagueVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueVC.swift; sourceTree = "<group>"; };
 		841AF6912046267A007886B8 /* SkillVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillVC.swift; sourceTree = "<group>"; };
 		841AF69420462D63007886B8 /* MensVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MensVC.swift; sourceTree = "<group>"; };
+		8463AFDE20471C970041FC63 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		84D00A7C2040BC9D00069A85 /* swooshbytamit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swooshbytamit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84D00A7F2040BC9D00069A85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84D00A812040BC9D00069A85 /* WelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeVC.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		841AF68E20462568007886B8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				8463AFDE20471C970041FC63 /* Player.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				841AF69520462D63007886B8 /* MensVC.swift in Sources */,
 				841AF6902046265A007886B8 /* LeagueVC.swift in Sources */,
 				84D00A802040BC9D00069A85 /* AppDelegate.swift in Sources */,
+				8463AFDF20471C970041FC63 /* Player.swift in Sources */,
 				841AF6922046267A007886B8 /* SkillVC.swift in Sources */,
 				84D00A932040CEAC00069A85 /* BorderButton.swift in Sources */,
 			);
